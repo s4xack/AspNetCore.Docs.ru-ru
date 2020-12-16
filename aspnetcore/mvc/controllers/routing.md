@@ -328,11 +328,11 @@ endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}"
 ASP.NET Core содержит следующие шаблоны HTTP-команд:
 
 * [[HttpGet]](xref:Microsoft.AspNetCore.Mvc.HttpGetAttribute)
-* [HttpPost](xref:Microsoft.AspNetCore.Mvc.HttpPostAttribute)
-* [[Хттппут]](xref:Microsoft.AspNetCore.Mvc.HttpPutAttribute)
-* [[Хттпделете]](xref:Microsoft.AspNetCore.Mvc.HttpDeleteAttribute)
-* [[Хттфеад]](xref:Microsoft.AspNetCore.Mvc.HttpHeadAttribute)
-* [[Хттппатч]](xref:Microsoft.AspNetCore.Mvc.HttpPatchAttribute)
+* [[HttpPost]](xref:Microsoft.AspNetCore.Mvc.HttpPostAttribute)
+* [[HttpPut]](xref:Microsoft.AspNetCore.Mvc.HttpPutAttribute)
+* [[HttpDelete]](xref:Microsoft.AspNetCore.Mvc.HttpDeleteAttribute)
+* [[HttpHead]](xref:Microsoft.AspNetCore.Mvc.HttpHeadAttribute)
+* [[HttpPatch]](xref:Microsoft.AspNetCore.Mvc.HttpPatchAttribute)
 
 <a name="rt"></a>
 
